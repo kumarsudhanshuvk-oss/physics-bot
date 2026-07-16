@@ -1,1 +1,1 @@
-# physics-bot
+python-telegram-bot==21.6
